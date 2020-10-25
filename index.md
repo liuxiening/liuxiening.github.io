@@ -1,37 +1,18 @@
 ## 刘些宁快速入坑指南
 
-You can use the [editor on GitHub](https://github.com/liuxiening/liuxiening.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hi，各位宁萌好。这里是[@JiayiOvO](https://weibo.com/u/6049671192)编辑的[刘些宁快速入坑指南](https://lxnsally.com)。本指南旨在安利[@硬糖少女303-刘些宁](https://weibo.com/gugudansally)。欢迎各位新粉入坑，各位老粉一起回顾与宁走过的点滴！
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+本站域名为[lxnsally.com](https://lxnsally.com)。任何意见欢迎反馈到[lxnsally@gmail.com](mailto:lxnsally@gmail.com)或微博私信[@JiayiOvO](https://weibo.com/u/6049671192)。
 
-### Markdown
+### 基本信息
++ 姓名：刘些宁
++ 英文名：Sally
++ 韩文名：샐리
++ 出生地：广东深圳
++ 出生日期：1996.10.23
++ 个人单曲：[留些绽放的时间](https://y.qq.com/n/yqq/song/004bMAZT1KjaQD.html?ADTAG=h5_playsong&no_redirect=1)
++ 影视作品：你好，对方辩友
++ 粉丝名称：宁萌
++ 应援口号：些些入梦，宁漫星海（线上）；些手并进，与宁同行（线下）
++ 应援色号：F7D879 Sally Yellow；BAB8D4 Jelly Purple
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/liuxiening/liuxiening.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
