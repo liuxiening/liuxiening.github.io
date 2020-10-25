@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 刘些宁快速入坑指南
 
 You can use the [editor on GitHub](https://github.com/liuxiening/liuxiening.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
