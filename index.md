@@ -37,16 +37,32 @@ Hi，各位宁萌好。这里是[@JiayiOvO](https://weibo.com/u/6049671192)编�
 
 ### :lemon: 资源汇总
 
-#### Gugudan
+#### Gugudan(구구단)
+
+##### 专辑
++ [Act.1 The Little Mermaid](https://y.qq.com/n/yqq/album/0041hs3X1ZW8Pw.html)
++ [Act.2 Narcissus](https://y.qq.com/n/yqq/album/001vsBsx4GnIB7.html)
++ [Act.3 Chococo Factory](https://y.qq.com/n/yqq/album/003X0SfH0XTSzC.html)
++ [Act.4 Cait Sith](https://y.qq.com/n/yqq/album/002lvQoJ0BOsrQ.html)
++ [Act.5 New Action](https://y.qq.com/n/yqq/album/002z1NpV3wNQEF.html)
+
+##### MV
 
 #### 创造营2020
 
 ##### 直拍
++ [你最最最重要](https://v.qq.com/x/cover/mzc00200ey22zjz/q0033otxpvi.html)
 + [招牌动作](http://t.cn/A6Ak2CeK)
 + [时候](http://t.cn/A62oTraD)
 + [每天起来唱一遍](http://t.cn/A6LNLJdw)
-
-##### 单人cut
++ [Do you?](http://m.v.qq.com/x/cover/x/mzc00200jl5tm9a/g0034of97g7.html?&url_from=share&second_share=0&share_from=copy)
 
 #### 硬糖少女303
+
+##### b站单人cut合集
++ [硬糖少女303小团综](https://space.bilibili.com/637030369/channel/detail?cid=154570)
++ [直播回放](https://space.bilibili.com/637030369/channel/detail?cid=154571)
++ [官博Vlog](https://space.bilibili.com/637030369/channel/detail?cid=150875)
++ [采访&专访&发布会](https://space.bilibili.com/637030369/channel/detail?cid=150874)
++ [综艺&花絮](https://space.bilibili.com/637030369/channel/detail?cid=150871)
 
