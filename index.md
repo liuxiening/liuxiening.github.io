@@ -29,6 +29,10 @@ Hi，各位宁萌好。这里是[@JiayiOvO](https://weibo.com/u/6049671192)编�
 + 副超话：:gem:[刘些宁sally](https://weibo.com/p/100808baa8c7be6515220d8905265ba6bd2c1e/super_index)
 + 后援会微博：[@刘些宁全球粉丝后援会](https://weibo.com/u/5117144473?refer_flag=1001030103_&is_all=1)
 + 后援会Instagram：[sallyfanclub](https://www.instagram.com/sallyfanclub/)
++ 数据站微博：[@刘些宁数据组](https://weibo.com/u/7483388793?from=feed&loc=at&nick=%E5%88%98%E4%BA%9B%E5%AE%81%E6%95%B0%E6%8D%AE%E7%BB%84&is_all=1)
++ 控评站微博：[@刘些宁控评站](https://weibo.com/u/7454012344?from=feed&loc=at&nick=%E5%88%98%E4%BA%9B%E5%AE%81%E6%8E%A7%E8%AF%84%E7%AB%99)
++ 反黑站微博：[@无些乂宁反黑站](https://weibo.com/n/%E6%97%A0%E4%BA%9B%E4%B9%82%E5%AE%81%E5%8F%8D%E9%BB%91%E7%AB%99?from=feed&loc=at)
++ 超管组微博：[@刘些宁粉丝群超话管理组](https://weibo.com/u/7293906567)
 + 图站合集：[图站](https://weibo.com/p/1005055117144473/follow?relate=recomm_group_list&from=rel&wvr=5#place)
 
 ### :lemon: 资源汇总
@@ -38,6 +42,9 @@ Hi，各位宁萌好。这里是[@JiayiOvO](https://weibo.com/u/6049671192)编�
 #### 创造营2020
 
 ##### 直拍
++ [招牌动作](http://t.cn/A6Ak2CeK)
++ [时候](http://t.cn/A62oTraD)
++ [每天起来唱一遍](http://t.cn/A6LNLJdw)
 
 ##### 单人cut
 
