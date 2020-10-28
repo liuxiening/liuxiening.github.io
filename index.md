@@ -66,3 +66,6 @@ Hi，各位宁萌好。这里是[@JiayiOvO](https://weibo.com/u/6049671192)编�
 + [采访&专访&发布会](https://space.bilibili.com/637030369/channel/detail?cid=150874)
 + [综艺&花絮](https://space.bilibili.com/637030369/channel/detail?cid=150871)
 
+ <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+            <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
+        
