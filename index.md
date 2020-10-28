@@ -1,6 +1,6 @@
-# :yellow_heart:追宁指南:purple_heart:
+# 追宁手册
 
-Hi，各位宁萌好。这里是[@JiayiOvO](https://weibo.com/u/6049671192)编辑的[追宁指南](https://lxnsally.com)。本指南旨在安利[@硬糖少女303-刘些宁](https://weibo.com/gugudansally)。欢迎各位新粉加入，各位老粉一起回顾与宁走过的点滴！
+Hi，各位宁萌好。这里是[@JiayiOvO](https://weibo.com/u/6049671192)编辑的[追宁手册](https://lxnsally.com)。本指南旨在安利[@硬糖少女303-刘些宁](https://weibo.com/gugudansally)。欢迎各位新粉加入，各位老粉一起回顾与宁走过的点滴！
 
 本站域名为[lxnsally.com](https://lxnsally.com)。任何意见欢迎反馈到[lxnsally@gmail.com](mailto:lxnsally@gmail.com)或微博私信[@JiayiOvO](https://weibo.com/u/6049671192)。
 
@@ -66,6 +66,6 @@ Hi，各位宁萌好。这里是[@JiayiOvO](https://weibo.com/u/6049671192)编�
 + [采访&专访&发布会](https://space.bilibili.com/637030369/channel/detail?cid=150874)
 + [综艺&花絮](https://space.bilibili.com/637030369/channel/detail?cid=150871)
 
- <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-            <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
+<div markdown="0"><script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+            <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span></div>
         
