@@ -40,11 +40,11 @@ Hi，各位宁萌好。这里是[@JiayiOvO](https://weibo.com/u/6049671192)编�
 ### Gugudan(구구단)
 
 #### 专辑
-+ [Act.1 The Little Mermaid](https://y.qq.com/n/yqq/album/0041hs3X1ZW8Pw.html)
-+ [Act.2 Narcissus](https://y.qq.com/n/yqq/album/001vsBsx4GnIB7.html)
-+ [Act.3 Chococo Factory](https://y.qq.com/n/yqq/album/003X0SfH0XTSzC.html)
-+ [Act.4 Cait Sith](https://y.qq.com/n/yqq/album/002lvQoJ0BOsrQ.html)
-+ [Act.5 New Action](https://y.qq.com/n/yqq/album/002z1NpV3wNQEF.html)
++ Act.1 The Little Mermaid [[QQ音乐](https://y.qq.com/n/yqq/album/0041hs3X1ZW8Pw.html)][[酷我音乐](http://www.kuwo.cn/album_detail/558537)][[酷狗音乐](https://www.kugou.com/yy/album/single/1744545.html)]
++ Act.2 Narcissus [[QQ音乐](https://y.qq.com/n/yqq/album/001vsBsx4GnIB7.html)][[酷我音乐](http://www.kuwo.cn/album_detail/2149808)][[酷狗音乐](https://www.kugou.com/yy/album/single/1974935.html)]
++ Act.3 Chococo Factory [[QQ音乐](https://y.qq.com/n/yqq/album/003X0SfH0XTSzC.html)][[酷我音乐](http://www.kuwo.cn/album_detail/4547927)][[酷狗音乐](https://www.kugou.com/yy/album/single/5745744.html)]
++ Act.4 Cait Sith [[QQ音乐](https://y.qq.com/n/yqq/album/002lvQoJ0BOsrQ.html)][[酷我音乐](http://www.kuwo.cn/album_detail/5384978)][[酷狗音乐](https://www.kugou.com/yy/album/single/8332361.html)]
++ Act.5 New Action [[QQ音乐](https://y.qq.com/n/yqq/album/002z1NpV3wNQEF.html)][[酷我音乐](http://www.kuwo.cn/album_detail/7432024)][[酷狗音乐](https://www.kugou.com/yy/album/single/12219271.html)]
 
 #### MV
 
@@ -52,6 +52,7 @@ Hi，各位宁萌好。这里是[@JiayiOvO](https://weibo.com/u/6049671192)编�
 
 #### 直拍
 + [你最最最重要](https://v.qq.com/x/cover/mzc00200ey22zjz/q0033otxpvi.html)
++ [Swish Swish](https://www.bilibili.com/video/BV1hQ4y1N7m7?from=search&seid=4682206765816492023)
 + [招牌动作](http://t.cn/A6Ak2CeK)
 + [时候](http://t.cn/A62oTraD)
 + [每天起来唱一遍](http://t.cn/A6LNLJdw)
