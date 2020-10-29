@@ -1,8 +1,8 @@
 # 追宁手册
 
-Hi，各位宁萌好。这里是[@JiayiOvO](https://weibo.com/u/6049671192)编辑的[追宁手册](https://lxnsally.com)。本指南旨在安利[@硬糖少女303-刘些宁](https://weibo.com/gugudansally)。欢迎各位新粉加入，各位老粉一起回顾与宁走过的点滴！
+Hi，各位宁萌好。这里是[@JiayiOvO](https://weibo.com/u/6049671192)编辑的[追宁手册](https://lxnsally.com)。本手册旨在安利[@硬糖少女303-刘些宁](https://weibo.com/gugudansally)，一站式了解关于些宁的一切！
 
-本站域名为[lxnsally.com](https://lxnsally.com)。任何意见欢迎反馈到[lxnsally@gmail.com](mailto:lxnsally@gmail.com)或微博私信[@JiayiOvO](https://weibo.com/u/6049671192)。
+本站域名为[lxnsally.com](https://lxnsally.com)。任何意见欢迎微博私信[@JiayiOvO](https://weibo.com/u/6049671192)或反馈到[lxnsally@gmail.com](mailto:lxnsally@gmail.com)。
 
 ## :lemon: 基本信息
 
@@ -33,7 +33,8 @@ Hi，各位宁萌好。这里是[@JiayiOvO](https://weibo.com/u/6049671192)编�
 + 控评站微博：[@刘些宁控评站](https://weibo.com/u/7454012344?from=feed&loc=at&nick=%E5%88%98%E4%BA%9B%E5%AE%81%E6%8E%A7%E8%AF%84%E7%AB%99)
 + 反黑站微博：[@无些乂宁反黑站](https://weibo.com/n/%E6%97%A0%E4%BA%9B%E4%B9%82%E5%AE%81%E5%8F%8D%E9%BB%91%E7%AB%99?from=feed&loc=at)
 + 超管组微博：[@刘些宁粉丝群超话管理组](https://weibo.com/u/7293906567)
-+ 图站合集：[图站](https://weibo.com/p/1005055117144473/follow?relate=recomm_group_list&from=rel&wvr=5#place)
++ 草莓冰沙站微博：[@刘些宁草莓冰沙站](https://weibo.com/u/6048947193?profile_ftype=1&is_all=1#_rnd1603991867301)
++ 图站微博合集：[图站](https://weibo.com/p/1005055117144473/follow?relate=recomm_group_list&from=rel&wvr=5#place)
 
 ## :lemon: 资源汇总
 
@@ -68,5 +69,5 @@ Hi，各位宁萌好。这里是[@JiayiOvO](https://weibo.com/u/6049671192)编�
 + [综艺&花絮](https://space.bilibili.com/637030369/channel/detail?cid=150871)
 
 <div markdown="0"><script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-            <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span></div>
+            <span id="busuanzi_container_site_pv">本站已见证<span id="busuanzi_value_site_pv"></span>份宁萌对刘些宁的喜爱！</span></div>
         
